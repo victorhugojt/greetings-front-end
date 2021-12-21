@@ -1,0 +1,26 @@
+{
+  "name": "greetings-front-end",
+  "version": "1.0.0",
+  "description": "for learn",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victorhugojt/greetings-front-end.git"
+  },
+  "keywords": [
+    "vuejs",
+    "apicalls"
+  ],
+  "author": "VHJT",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/victorhugojt/greetings-front-end/issues"
+  },
+  "homepage": "https://github.com/victorhugojt/greetings-front-end#readme",
+  "dependencies": {
+    "axios": "^0.24.0"
+  }
+}
